@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Documentation",
     "\\FamilyHub.Web",
     "\\FamilyHub.Web\\bin"
   ],
-  "SelectedNode": "\\FamilyHub.Web\\FamilyHub.Web.csproj",
+  "SelectedNode": "\\Documentation\\Color Scheme.md",
   "PreviewInSolutionExplorer": false
 }
